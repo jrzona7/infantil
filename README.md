@@ -26,3 +26,6 @@ http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial3/ToyStory4.mp4?token=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iicBFeSxoBQE8Uat41DxebCT_s3ru_fKPQ&usqp=CAU" group-title="infantil",Nick Junior 
 https://edge-aws.aovivotv.xyz:443/hls/s:209.126.108.100:81/nickjr_54ceb912_f41ea939143ba9ba4470d2b9e4c5290547babc6d/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMjM1LjIxLjEyNiI7aToxO3M6MTIzOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUo2MDBHVCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMDUgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTc3NDk2MTE7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlruf1I6N5WHCTb9nwTi3ZtZC6drqhDKv4Xw&usqp=CAU" group-title="infantil",Gloob
+https://edge-aws.aovivotv.xyz:443/hls/s:78.46.240.155/gloob_04f1241e_f27fe3621d90f93dcb066c7c749f85e6322e12aa/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMjM1LjIxLjEyNiI7aToxO3M6MTIzOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUo2MDBHVCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMDUgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTc3NTAxNjY7fQ%3D%3D
