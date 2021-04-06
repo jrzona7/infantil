@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Disney-Channel-ao-vivo-online-24-horas.png" group-title="infantil",Disney Junior 
-https://playplusdisney-lh.akamaihd.net:443/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&rebase=on
+https://edge-aws.aovivotv.xyz:443/hls/s:88.198.163.51/disneychannel_a9334987_93d384b49e02c4afcf2da00d3d26f85b9a375ec3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMjM1LjIxLjEyNiI7aToxO3M6MTIzOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUo2MDBHVCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMDUgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTc3NDgwNDE7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3U5xlAq3qiKtbY-AYN-eT62tXReOod3Ekkw&usqp=CAU" group-title="infantil",Bigfoot
 http://bucket02.s3.us-central-1.wasabisys.com/cdn6/BigPaiBigFilho.mp4?token=996c572f2f188384e92c2b796d8a1356
