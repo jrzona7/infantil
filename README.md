@@ -14,3 +14,12 @@ http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial1/BobEsponjaO.IncrivelR
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDs1T3h0aU9iJhNEcYY-R3PzKnc4p-4uVvPw&usqp=CAU" group-title="infantil",Sonic filme
 http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial1/SonicOFilme.mp4?token=5c596e38e5bbe498fa24bfb91650c815
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8h3FLAy573VidxxaLoF1CJFx7wv_LXG1iw&usqp=CAU" group-title="infantil",Os Croods 2
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/OsCroods.2.UmaNovaEra.2021.mp4?token=bc21bcd5415f0f4bd5b9255431441e87
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IprXWnBZK2bEFfh4dmxkzq7xciS-1vRsuw&usqp=CAU" group-title="infantil",Scooby o filme
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial2/ScoobyOFilme.2020.mp4?token=335887f5453d2366a3019095af264e86
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFPIh04Oa9U3E0DN8qIV357RRbB41cw0jmw&usqp=CAU" group-title="infantil",Toy Story 4
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial3/ToyStory4.mp4?token=0d76e7d0f4200c4acad2c8b11eebbdc7
