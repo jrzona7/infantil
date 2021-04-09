@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Disney-Channel-ao-vivo-online-24-horas.png" group-title="infantil",Disney Junior 
-http://69.162.89.182:8081/live/infantil_disneyjr/chunks.m3u8?nimblesessionid=7694739&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNDoxMzozNyBQTSZoYXNoX3ZhbHVlPTdoeXVNVXM2YTNUdFR0V1dtTXJ3ZUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://69.162.89.182:8081/live/infantil_disneyjr/chunks.m3u8?nimblesessionid=7705796&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNzozMDoxMSBQTSZoYXNoX3ZhbHVlPWVZUTh6RHhnOVJBSE1YMm1jZTZlV0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3U5xlAq3qiKtbY-AYN-eT62tXReOod3Ekkw&usqp=CAU" group-title="infantil",Bigfoot
 http://bucket02.s3.us-central-1.wasabisys.com/cdn6/BigPaiBigFilho.mp4?token=996c572f2f188384e92c2b796d8a1356
@@ -25,7 +25,7 @@ http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial2/ScoobyOFilme.2020.mp4
 http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial3/ToyStory4.mp4?token=0d76e7d0f4200c4acad2c8b11eebbdc7
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iicBFeSxoBQE8Uat41DxebCT_s3ru_fKPQ&usqp=CAU" group-title="infantil",Nick Junior 
-http://69.162.89.182:8081/live/infantil_nickjr/chunks.m3u8?nimblesessionid=7695725&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNDozMzowMCBQTSZoYXNoX3ZhbHVlPXAyeGVsbExGa0I0bmtjR3BobmI4SEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://69.162.89.182:8081/live/infantil_nickjr/chunks.m3u8?nimblesessionid=7705895&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNzozMzozOCBQTSZoYXNoX3ZhbHVlPWZXV01WQmQrR0JSNEVXOWFEWkFkSUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlruf1I6N5WHCTb9nwTi3ZtZC6drqhDKv4Xw&usqp=CAU" group-title="infantil",Gloob
 https://edge-aws.aovivotv.xyz:443/hls/s:78.46.240.155/gloob_04f1241e_f27fe3621d90f93dcb066c7c749f85e6322e12aa/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMjM1LjIxLjEyNiI7aToxO3M6MTIzOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUo2MDBHVCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMDUgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTc3NTAxNjY7fQ%3D%3D
