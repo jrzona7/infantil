@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Disney-Channel-ao-vivo-online-24-horas.png" group-title="infantil",Disney Junior 
-http://69.162.89.182:8081/live/infantil_disneyjr/chunks.m3u8?nimblesessionid=7705796&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNzozMDoxMSBQTSZoYXNoX3ZhbHVlPWVZUTh6RHhnOVJBSE1YMm1jZTZlV0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?FORMIGAtv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3U5xlAq3qiKtbY-AYN-eT62tXReOod3Ekkw&usqp=CAU" group-title="infantil",Bigfoot
 http://bucket02.s3.us-central-1.wasabisys.com/cdn6/BigPaiBigFilho.mp4?token=996c572f2f188384e92c2b796d8a1356
@@ -25,9 +25,18 @@ http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial2/ScoobyOFilme.2020.mp4
 http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial3/ToyStory4.mp4?token=0d76e7d0f4200c4acad2c8b11eebbdc7
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iicBFeSxoBQE8Uat41DxebCT_s3ru_fKPQ&usqp=CAU" group-title="infantil",Nick Junior 
-http://69.162.89.182:8081/live/infantil_nickjr/chunks.m3u8?nimblesessionid=7705895&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNzozMzozOCBQTSZoYXNoX3ZhbHVlPWZXV01WQmQrR0JSNEVXOWFEWkFkSUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true 
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlruf1I6N5WHCTb9nwTi3ZtZC6drqhDKv4Xw&usqp=CAU" group-title="infantil",Gloob
-https://edge-aws.aovivotv.xyz:443/hls/s:78.46.240.155/gloob_04f1241e_f27fe3621d90f93dcb066c7c749f85e6322e12aa/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMjM1LjIxLjEyNiI7aToxO3M6MTIzOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUo2MDBHVCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMDUgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTc3NTAxNjY7fQ%3D%3D
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://pp-vod-img.akamaized.net/res/banner/97070a4e-4fe2-4ed6-9de5-0e96fc82a74b.jpg" group-title="Infantil", Play Kids https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://pp-vod-img.akamaized.net/res/banner/97070a4e-4fe2-4ed6-9de5-0e96fc82a74b.jpg" group-title="Infantil", Play Kids https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?sd=10&rebase=on7
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGoP6iiwlqukFGM-ikzbTcbsa2AV2Jl198pQ&usqp=CAU" group-title="Infantil", BigPaiBigFilho familia http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/BigPaiBigFilho.2.2021.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9kcybWGPttd1rEEgs05FKZODfxuWUg6K5QQ&usqp=CAU" group-title="Infantil",jovens titas em acao vs jovenstita http://bucket02.s3.us-central-1.wasabisys.com/cdn3/jovenstitasemacaovsjovenstitas.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34VzddN4Rk6yGqA0DEq9hj2m1OFhf1Ucx5w&usqp=CAU" group-title="Infantil", fuga das galinhas http://bucket02.s3.us-central-1.wasabisys.com/cdn7/AFugadasGalinhas.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwok07oIP3QoKCNa-s8tcFhKpGnnmgBJYMA&usqp=CAU" group-title="Infantil", a era do gelo o big bang http://bucket02.s3.us-central-1.wasabisys.com/cdn9/AEradoGeloOBigBang.2016.mp4
