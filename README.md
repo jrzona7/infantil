@@ -40,3 +40,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f9200078
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34VzddN4Rk6yGqA0DEq9hj2m1OFhf1Ucx5w&usqp=CAU" group-title="Infantil", fuga das galinhas http://bucket02.s3.us-central-1.wasabisys.com/cdn7/AFugadasGalinhas.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwok07oIP3QoKCNa-s8tcFhKpGnnmgBJYMA&usqp=CAU" group-title="Infantil", a era do gelo o big bang http://bucket02.s3.us-central-1.wasabisys.com/cdn9/AEradoGeloOBigBang.2016.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo25bYO_QoQ1MiK93K2ZGhx_NgwQOAvckGbg&usqp=CAU" group-title="Infantil", o poderoso chefinho http://bucket02.s3.us-central-1.wasabisys.com/cdn1/poderosochefinho-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nFTRSn1hJwduWxj2GSvSonI50jiTa-SYuA&usqp=CAU" group-title="Infantil",procurando dory http://bucket02.s3.us-central-1.wasabisys.com/cdn2/procurando dory-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9yGt18Gop9VZ9CuPAD_NaFTD9u-xqEdYrmQ&usqp=CAU" group-title="Infantil",carros 3 http://bucket02.s3.us-central-1.wasabisys.com/cdn1/carros3-dub-360p.mp4
