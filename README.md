@@ -46,3 +46,5 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f9200078
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nFTRSn1hJwduWxj2GSvSonI50jiTa-SYuA&usqp=CAU" group-title="Infantil",procurando dory http://bucket02.s3.us-central-1.wasabisys.com/cdn2/procurandodory-dub-480p.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9yGt18Gop9VZ9CuPAD_NaFTD9u-xqEdYrmQ&usqp=CAU" group-title="Infantil",carros 3 http://bucket02.s3.us-central-1.wasabisys.com/cdn1/carros3-dub-360p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzwV8rM5PXbmopIkLdyrbE_w4C6NNxngbew&usqp=CAU" group-title="Infantil",Os Smurfs e a Vila Perdida http://bucket02.s3.us-central-1.wasabisys.com/cdn9/OsSmurfseaVilaPerdida.2017.mp4
