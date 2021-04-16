@@ -48,3 +48,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f9200078
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9yGt18Gop9VZ9CuPAD_NaFTD9u-xqEdYrmQ&usqp=CAU" group-title="Infantil",carros 3 http://bucket02.s3.us-central-1.wasabisys.com/cdn1/carros3-dub-360p.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzwV8rM5PXbmopIkLdyrbE_w4C6NNxngbew&usqp=CAU" group-title="Infantil",Os Smurfs e a Vila Perdida http://bucket02.s3.us-central-1.wasabisys.com/cdn9/OsSmurfseaVilaPerdida.2017.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHeZoRAwKSxIt21WqUq8clOlHV6sPA-49k4g&usqp=CAU" group-title="Infantil",Minions filme http://bucket02.s3.us-central-1.wasabisys.com/cdn9/Minions.2015.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztIQodWmEmDl9UfvnG3WqqnkSXjVh2gvmZA&usqp=CAU" group-title="Infantil",Tarzan A Evolucao da Lenda http://bucket02.s3.us-central-1.wasabisys.com/cdn8/TarzanAEvolucaodaLenda.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe_DOBFbGy_WMVYfCB76h0xmDN7OUJaaTxbA&usqp=CAU" group-title="Infantil",Os Smurfs 1 http://bucket02.s3.us-central-1.wasabisys.com/cdn11/OsSmurfs1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsDcMYuDT088QRdzketcCQGhsvIpzNN0Vog&usqp=CAU" group-title="Infantil",rio http://bucket02.s3.us-central-1.wasabisys.com/cdn8/Rio.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBxxMrPnmY6mp8GGUMaSAoNBNoAHBhfAD_Q&usqp=CAU" group-title="Infantil",Shrek Terceiro http://bucket02.s3.us-central-1.wasabisys.com/cdn8/ShrekTerceiro.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRh8G50YWB40NMrpmRKEAd2gku3vZNu2A1Q&usqp=CAU" group-title="Infantil",Tom e Jerry Velozes e Ferozes http://bucket02.s3.us-central-1.wasabisys.com/cdn12/TomeJerryVelozeseFerozes.2005.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO3NDoeNbqJVmT9MKsus5JkgxgnToZlPfEQ&usqp=CAU" group-title="Infantil",Vida de Inseto http://bucket02.s3.us-central-1.wasabisys.com/cdn12/ABugsLife1998.mp4
