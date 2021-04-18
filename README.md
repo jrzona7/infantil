@@ -62,3 +62,5 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f9200078
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRh8G50YWB40NMrpmRKEAd2gku3vZNu2A1Q&usqp=CAU" group-title="Infantil",Tom e Jerry Velozes e Ferozes http://bucket02.s3.us-central-1.wasabisys.com/cdn12/TomeJerryVelozeseFerozes.2005.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO3NDoeNbqJVmT9MKsus5JkgxgnToZlPfEQ&usqp=CAU" group-title="Infantil",Vida de Inseto http://bucket02.s3.us-central-1.wasabisys.com/cdn12/ABugsLife1998.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_UO0yu1Xm1AZBIR_Ibwjzy_jvBDE76Srng&usqp=CAU" group-title="Infantil",Tom & Jerry – O Filme http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/TomeJerry.2021.DUB.mp4
